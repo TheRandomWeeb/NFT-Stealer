@@ -1,0 +1,182 @@
+1653451513391	geckodriver	INFO	Listening on 127.0.0.1:56349
+1653451516415	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56350" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilebftwmD"
+1653451518021	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilebftwmD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56350/devtools/browser/c886d0b5-ce0f-4f95-930a-607a6d32d6c9
+1653451520956	Marionette	INFO	Listening on port 56371
+Read port: 56371
+1653451521061	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dev-panel.falixnodes.net/auth/login line 1 > injectedScript, line 2: TypeError: navigator.brave is undefined
+JavaScript error: https://cdn.fuseplatform.net/publift/tags/2/2707/fuse.js, line 1: Error: [FUSE]: Fusetag is already initialising, and may have been included in the page twice
+JavaScript error: https://dev-panel.falixnodes.net/auth/login, line 1: ReferenceError: needed is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev-panel.falixnodes.net"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev-panel.falixnodes.net"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev-panel.falixnodes.net"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrJavaScript error: https://dev-panel.falixnodes.net/auth/login line 1 > injectedScript, line 2: TypeError: navigator.brave is undefined
+JavaScript error: https://cdn.fuseplatform.net/publift/tags/2/2707/fuse.js, line 1: Error: [FUSE]: Fusetag is already initialising, and may have been included in the page twice
+JavaScript error: https://dev-panel.falixnodes.net/auth/login, line 1: ReferenceError: needed is not defined
+1653452954534	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1653452954541	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1653452954680	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev-panel.falixnodes.net"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev-panel.falixnodes.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev-panel.falixnodes.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1653452985813	Marionette	INFO	Stopped listening on port 49456
+line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1653452946718	Marionette	INFO	Stopped listening on port 56371
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+1653452986998	geckodriver	INFO	Listening on 127.0.0.1:54709
+1653452990046	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54710" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilevVhcUa"
+1653452990664	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilevVhcUa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54710/devtools/browser/72059936-4e77-4633-987d-19491e07e249
+1653452992879	Marionette	INFO	Listening on port 54733
+Read port: 54733
+1653452992995	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dev-panel.falixnodes.net/auth/login line 1 > injectedScript, line 2: TypeError: navigator.brave is undefined
+JavaScript error: https://cdn.fuseplatform.net/publift/tags/2/2707/fuse.js, line 1: Error: [FUSE]: Fusetag is already initialising, and may have been included in the page twice
+JavaScript error: https://dev-panel.falixnodes.net/auth/login, line 1: ReferenceError: needed is not defined
+1653453000581	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1653453000856	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev-panel.falixnodes.net"
+JavaScript error: https://www.gstatic.com/recaptcha/releases/M-QqaF9xk6BpjLH22uHZRhXt/recaptcha__en.js, line 176: TypeError: e is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev-panel.falixnodes.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://script.crazyegg.com/pages/scripts/0085/1990.js, line 1: Error: CE: multiple userscripts installed
+1653453260349	Marionette	INFO	Stopped listening on port 54733
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 22460, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_chaconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileLDk6u3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55074/devtools/browser/5213745c-b659-4cf8-9683-2527677f6667
+1653453262699	Marionette	INFO	Listening on port 55100
+Read port: 55100
+1653453262797	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653453402887	Marionette	INFO	Stopped listening on port 55100
+ent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+1653453400245	geckodriver	INFO	Listening on 127.0.0.1:55171
+1653453403297	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55172" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilexqnV6l"
+1653453404003	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilexqnV6l\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55172/devtools/browser/955a7138-339d-4056-9a15-bab227ff9c4f
+1653453406256	Marionette	INFO	Listening on port 55196
+Read port: 55196
+1653453406302	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://dev-panel.falixnodes.net/auth/login line 1 > injectedScript, line 2: TypeError: navigator.brave is undefined
+JavaScript error: https://cdn.fuseplatform.net/publift/tags/2/2707/fuse.js, line 1: Error: [FUSE]: Fusetag is already initialising, and may have been included in the page twice
+JavaScript error: https://dev-panel.falixnodes.net/auth/login, line 1: ReferenceError: needed is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev-panel.falixnodes.net"
+1653453415696	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1653453415708	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1653453415900	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://dev-panel.falixnodes.net"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1653453696905	Marionette	INFO	Stopped listening on port 55196
+efox\\firefox.exe" "--marionette" "--remote-debugging-port" "64352" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileQu6Tkh"
+1653453512225	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileQu6Tkh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64352/devtools/browser/78504942-9668-4daa-9bad-e8e32f545280
+1653453514535	Marionette	INFO	Listening on port 64374
+Read port: 64374
+1653453514658	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653453518595	Marionette	INFO	Stopped listening on port 64374
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1653453699837	geckodriver	INFO	Listening on 127.0.0.1:64427
+1653453702885	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64428" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile8cWjZF"
+1653453703524	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofile8cWjZF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64428/devtools/browser/983f0e32-7b53-41f7-86ff-3c4306e36a55
+1653453706134	Marionette	INFO	Listening on port 64452
+Read port: 64452
+1653453706205	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
